@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lazyrf/natours/issues"
   },
-  "homepage": "https://github.com/lazyrf/natours#readme"
+  "homepage": "https://github.com/lazyrf/natours#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
 }
