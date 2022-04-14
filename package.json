@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Lading page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazyrf/natours.git"
+  },
+  "author": "Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazyrf/natours/issues"
+  },
+  "homepage": "https://github.com/lazyrf/natours#readme"
+}
